@@ -464,24 +464,20 @@ Clustering is **not a core dependency** of the project, so the main project rema
 |---|---|
 | Data Storage | SQL Database |
 | SQL Analytics | SQL |
-| Data Processing | Python, Pandas |
-| Visualization | Python Visualization Libraries + Interactive Dashboard |
-| Machine Learning | Scikit-learn / Appropriate ML Libraries |
+| Data Processing | Python, Pandas, NumPy |
+| Visualization | Matplotlib + Seaborn + Interactive Dashboard |
+| Machine Learning | Scikit-learn / Regression & Classification |
 | Hyperparameter Optimization | Bayesian Search |
 | Experiment Tracking | MLflow |
 | API | FastAPI |
 | Version Control | Git & GitHub |
 
-### Project Constraints
-
-- **Azure will not be used.**
-- **Docker will not be used.**
 
 The deployment plan will focus on FastAPI and other technologies that fit the project without depending on Azure or Docker.
 
 ---
 
-# 📁 Suggested Project Structure
+# 📁 Initial Project Structure
 
 ```text
 ecommerce-customer-intelligence/
@@ -539,11 +535,11 @@ A possible division:
 
 | Member | Main Responsibility |
 |---|---|
-| Member 1 | Data ingestion, SQL schema, relational design |
-| Member 2 | Data cleaning, EDA, statistical analysis |
-| Member 3 | Feature engineering, ML preprocessing |
-| Member 4 | ML models, Bayesian Search, MLflow |
-| Member 5 | FastAPI, dashboard integration, deployment |
+| Member 1 | Will be announced later |
+| Member 2 | Will be announced later |
+| Member 3 | Will be announced later |
+| Member 4 | Will be announced later |
+| Member 5 | Will be announced later |
 
 Responsibilities are not isolated. Everyone should understand the complete pipeline and collaborate during integration, evaluation, documentation, and presentation.
 
