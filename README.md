@@ -3,7 +3,7 @@
 An end-to-end Data Science project that turns real-world e-commerce transaction data into actionable business insights using **SQL, Python, Machine Learning, MLflow, Interactive Visualization, and FastAPI**.
 
 The project is based on the **Olist Brazilian E-Commerce Public Dataset**, which is provided as multiple related CSV tables covering customers, orders, products, payments, reviews, sellers, and related information.
-
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ---
 
 ## 🎯 Business Problem
